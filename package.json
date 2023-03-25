@@ -1,0 +1,32 @@
+{
+  "name": "alars",
+  "version": "1.0.0",
+  "description": "Proyecto openSource para realizar una tienda online para aprender",
+  "author": "",
+  "private": true,
+  "license": "MIT",
+  "workspaces":[
+    "frontend",
+    "backend"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduiglesiash/alars.git"
+  },
+  "keywords": [],
+  
+  "bugs": {
+    "url": "https://github.com/eduiglesiash/alars/issues"
+  },
+  "homepage": "https://github.com/eduiglesiash/alars#readme",
+  "engines" : { 
+    "node" : ">=18.0.0",
+    "npm": ">=9.0.0" 
+  },
+  "devDependencies": {
+  }
+}
