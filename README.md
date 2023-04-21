@@ -10,12 +10,12 @@ Proyecto openSource para realizar una tienda online para aprender
 ### Frontend 🌈
 
 - Ecommerce
-- Astro
-- Svelte
+- [Astro](https://astro.build/)
+- [Svelte](https://svelte.dev/)
 
 ### Backend 🤬
 
-- Backoffice Ecommerce
-- Next
-- Tailwind
+- Ecommerce Backoffice
+- [Next.js](https://nextjs.org/)
+- [Tailwind](https://tailwindcss.com/)
 
