@@ -10,6 +10,19 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^2.1.7"
+    "@astrojs/svelte": "^2.1.0",
+    "astro": "^2.3.0",
+    "autoprefixer": "^10.4.14",
+    "svelte": "^3.58.0"
+  },
+  "browserslist": {
+    "development": [
+      "last 1 version"
+    ],
+    "production": [
+      "defaults",
+      "> 0.1%",
+      "not dead"
+    ]
   }
 }
